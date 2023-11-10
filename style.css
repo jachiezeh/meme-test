@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: gold;
+}
+
+h1, p{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+img{
+    border: 5px solid gold;
+    width: 100%;
+}
+.first-div{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 25%;
+}
